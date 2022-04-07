@@ -1,0 +1,20 @@
+
+body {
+background-color: #eaf6f6;
+}
+h1 { color: orange;
+  text-decoration: underline wavy black;
+  text-shadow: 3px -4px 0 #dddfff;
+
+
+}
+
+h3 { color: #66bfbf;
+
+}
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 20%;
+}
